@@ -6,15 +6,15 @@ mylist=[0,1,"two",7.4,False]
 mytuple=(0,1,2)
 mydict={"one":1,"two":2}
 
-# # print(myint)
-# # print(myfloat)
-# # print(mystr)
-# # print(mybool)
-# # print(mylist)
-# # print(mytuple)
-# # print(mydict)
+print(myint)
+print(myfloat)
+print(mystr)
+print(mybool)
+print(mylist)
+print(mytuple)
+print(mydict)
 
-myint=123
+# myint=123
 
 # print(mylist[1:5])
 # print(mylist[1:5:2])
@@ -22,10 +22,10 @@ myint=123
 # print(mydict["one"])
 # print("string type"+ str(123))
 
-def someFunction():
-    global mystr
-    mystr="def"
-    print(mystr)
+# def someFunction():
+#     global mystr
+#     mystr="def"
+#     print(mystr)
 
-someFunction()
-print(mystr)
+# someFunction()
+# print(mystr)
